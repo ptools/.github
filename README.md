@@ -10,11 +10,11 @@ Part of what we do it to provide open-source software, webserver and libraries t
 
 Here are some of the projects we are currently working on:
 
-- **PTools**: molecular assembly/folding library in Python - ([link to repo](https://github.com/ptools/ptools)).
+- **PTools**: molecular assembly/folding library in Python - ([repo](https://github.com/ptools/ptools)).
 
-- **Heligeom Webserver**: A webserver for characterizing, manipulating and assembling structural units with a screw organization ([link to repo](https://github.com/ptools/heligeom_webserver)).
+- **Heligeom Webserver**: A webserver for characterizing, manipulating and assembling structural units with a screw organization ([repo](https://github.com/ptools/heligeom_webserver)).
 
-- **PTools legacy**: legacy version of the PTools library written in C++ & Fortran with Python bindings ([link to repo](https://github.com/ptools/ptools-legacy)).
+- **PTools legacy**: legacy version of the PTools library written in C++ & Fortran with Python bindings ([repo](https://github.com/ptools/ptools-legacy)).
 
 ## Team
 
