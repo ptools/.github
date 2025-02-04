@@ -35,8 +35,8 @@ We welcome contributions from the community! If you'd like to contribute to any 
 
 ## Publications
 
-- Boyer, B., Ezelin, J., Poulain, P., Saladin, A., Zacharias, M., Robert, C. H. & Prévost, C. An integrative approach to the study of filamentous oligomeric assemblies, with application to RecA. *PLOS ONE* 10, 1-25 (2015). DOI: [10.1371/journal.pone.0116414](https://doi.org/10.1371/journal.pone.0116414)
 - Boyer, B., Laurent, B., Robert, C. H. and Prévost, C. Modeling Perturbations in Protein Filaments at the Micro and Meso Scale Using NAMD and PTools/Heligeom. *Bio-protocol* 11(14): e4097 (2021). DOI: [10.21769/BioProtoc.4097](https://doi.org/10.21769/BioProtoc.4097).
+- Boyer, B., Ezelin, J., Poulain, P., Saladin, A., Zacharias, M., Robert, C. H. & Prévost, C. An integrative approach to the study of filamentous oligomeric assemblies, with application to RecA. *PLOS ONE* 10, 1-25 (2015). DOI: [10.1371/journal.pone.0116414](https://doi.org/10.1371/journal.pone.0116414)
 - Saladin, A., Fiorucci, S., Poulain, P. et al. PTools: an opensource molecular docking library. BMC Struct Biol 9(27) (2009). DOI: [10.1186/1472-6807-9-27](https://doi.org/10.1186/1472-6807-9-27)  
 
 ## Contact Us
